@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/newspaper/static/js/main.e763fe92.js",
+    "static/media/1.png": "/newspaper/static/media/1.03af720a29c3852dc789.png",
+    "index.html": "/newspaper/index.html",
+    "main.e763fe92.js.map": "/newspaper/static/js/main.e763fe92.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e763fe92.js"
+  ]
+}
